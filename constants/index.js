@@ -2,7 +2,7 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'The Moon',
   },
   {
     id: 'world-2',
@@ -17,12 +17,12 @@ export const exploreWorlds = [
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Arctic Avalon',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'The Observatory',
   },
 ];
 

@@ -35,7 +35,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
         <p className="font-normal tex-[16px] leading-[20px] text-white uppercase">
           Enter the Metaverse
         </p>
-        <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
+        <h2 className="drop-shadow-2xl mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
         </h2>
       </div>

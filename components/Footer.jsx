@@ -27,7 +27,7 @@ const Footer = () => (
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white">
+          <span className="pl-2 font-normal text-[16px] text-white">
             ENTER METAVERSE
           </span>
         </button>
@@ -35,9 +35,9 @@ const Footer = () => (
       <div className="flex flex-col">
         <div className="mb-[50px] opacity-10 h-[2px] bg-white" />
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <h4 className="font-extrabold text-[24px] text-white">Metaversus</h4>
+          <h4 className="font-extrabold text-[24px] text-white">MetaWorlds</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2022 - 2023 Metaversus. All rights reserved.
+            Copyright © 2022 - 2023 MetaWorlds. All rights reserved.
           </p>
           <div className="flex gap-4">
             {socials.map((socials) => (
