@@ -24,7 +24,7 @@ const Feedback = () => (
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">Founder | MetaWorlds</p>
         </div>
-        <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">"With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0 by using metaverse you can use it as anything!"</p>
+        <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">"With the development of today's technology, the metaverse is very useful for today's work, or can be called web 3.0 by using metaverse you can use it as anything!"</p>
       </motion.div>
       <motion.div variants={fadeIn('left', 'tween', 0.2, 1)} className="relative flex-1 flex justify-center items-center">
         <img src="/planet-09.png" alt="planet-09" className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"/>
